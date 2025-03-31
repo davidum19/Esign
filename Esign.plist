@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ESign.app</string>
+                <string>p3.xyz.yyyue.esign</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>5.0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
